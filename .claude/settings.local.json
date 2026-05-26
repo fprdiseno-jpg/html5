@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -a /tmp/ruflo-src/. /home/user/html5/)",
+      "Bash(rm -rf /home/user/html5/.git)"
+    ]
+  }
+}
